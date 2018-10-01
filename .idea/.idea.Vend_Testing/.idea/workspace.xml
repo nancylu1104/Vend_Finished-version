@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="027c158d-a088-49f5-9da0-33db8709f61a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vend_Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Vend_Testing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vend_Testing/Pages/ProductPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vend_Testing/Pages/ProductPage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vend_Testing/Pages/WebregisterPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vend_Testing/Pages/WebregisterPage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vend_Testing/Test/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vend_Testing/Test/Program.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1227867949">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="12" />
+          <entry key="resx" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="12" />
+          <entry key="Resources" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="846" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="846" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vend_Testing/Config/Vend_Resource.resx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="123" column="23" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vend_Testing/Test/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+              <folding>
+                <marker date="1538268607110" expanded="false" signature="6:75" ph="..." />
+                <marker date="1538268607110" expanded="true" signature="104:6231" ph="{...}" />
+                <marker date="1538268607110" expanded="true" signature="126:6229" ph="{...}" />
+                <marker date="1538268607110" expanded="true" signature="213:6223" ph="{...}" />
+                <marker date="1538268607110" expanded="true" signature="302:524" ph="{...}" />
+                <marker date="1538268607110" expanded="true" signature="627:908" ph="{...}" />
+                <marker date="1538268607110" expanded="true" signature="909:6213" ph="/* [Test, Description(&quot;Nunit-Search for a property!&quot;)] ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/WebregisterPage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+              <folding>
+                <marker date="1538269474041" expanded="false" signature="6:304" ph="..." />
+                <marker date="1538269474041" expanded="true" signature="334:1673" ph="{...}" />
+                <marker date="1538269474041" expanded="true" signature="371:1671" ph="{...}" />
+                <marker date="1538269474041" expanded="true" signature="765:1097" ph="{...}" />
+                <marker date="1538269474041" expanded="true" signature="1181:1655" ph="{...}" />
+                <marker date="1538269474041" expanded="true" signature="1544:1607" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/ProductPage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <marker date="1538268473917" expanded="true" signature="6:79" ph="..." />
+                <marker date="1538268473917" expanded="true" signature="109:456" ph="{...}" />
+                <marker date="1538268473917" expanded="true" signature="140:454" ph="{...}" />
+                <marker date="1538268473917" expanded="true" signature="175:248" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/PromotionsPage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <folding>
+                <marker date="1538265791344" expanded="false" signature="6:65" ph="..." />
+                <marker date="1538265791344" expanded="true" signature="95:339" ph="{...}" />
+                <marker date="1538265791344" expanded="true" signature="129:337" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/SigninPage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <marker date="1538264813724" expanded="false" signature="6:245" ph="..." />
+                <marker date="1538264813724" expanded="true" signature="275:1882" ph="{...}" />
+                <marker date="1538264813724" expanded="true" signature="309:1880" ph="{...}" />
+                <marker date="1538264813724" expanded="false" signature="324:755" ph="Elements" />
+                <marker date="1538264813724" expanded="true" signature="765:1874" ph="Methods" />
+                <marker date="1538264813724" expanded="true" signature="817:1005" ph="{...}" />
+                <marker date="1538264813724" expanded="true" signature="1042:1236" ph="{...}" />
+                <marker date="1538264813724" expanded="true" signature="1272:1409" ph="{...}" />
+                <marker date="1538264813724" expanded="true" signature="1449:1855" ph="{...}" />
+                <marker date="1538264813724" expanded="true" signature="1555:1625" ph="/* used to make sure that the page go to the webregister ... */" />
+                <marker date="1538264813724" expanded="true" signature="1688:1803" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Config/Vend_Resource.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Global/Driver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Global/Base.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Global/CommonMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Pages/ProductPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Pages/PromotionsPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Test/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Pages/SigninPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Pages/WebregisterPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vend_Testing/Pages/BasePage.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Vend_Testing/Pages/BasePage.cs" />
+        <option value="$PROJECT_DIR$/Vend_Testing/Pages/SigninPage.cs" />
+        <option value="$PROJECT_DIR$/Vend_Testing/Global/Base.cs" />
+        <option value="$PROJECT_DIR$/Vend_Testing/Pages/PromotionsPage.cs" />
+        <option value="$PROJECT_DIR$/Vend_Testing/Pages/ProductPage.cs" />
+        <option value="$PROJECT_DIR$/Vend_Testing/Test/Program.cs" />
+        <option value="$PROJECT_DIR$/Vend_Testing/Pages/WebregisterPage.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="291" />
+    <option name="y" value="24" />
+    <option name="width" value="1617" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Vend_Testing" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Vend_Testing" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Vend_Testing" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Vend_Testing" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Vend_Testing" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestReports" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027c158d-a088-49f5-9da0-33db8709f61a" name="Default Changelist" comment="" />
+      <created>1538251003100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538251003100</updated>
+      <workItem from="1538251009043" duration="887000" />
+      <workItem from="1538253432882" duration="2074000" />
+      <workItem from="1538264242310" duration="2391000" />
+      <workItem from="1538267655033" duration="1989000" />
+    </task>
+    <task id="LOCAL-00001" summary="login">
+      <created>1538267906279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538267906279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7341000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="291" y="24" width="1617" height="1100" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16249198" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36401242" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.21668473" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.2665222" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login" />
+    <option name="LAST_COMMIT_MESSAGE" value="login" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Vend_Testing/Pages/WebregisterPage.cs</url>
+          <line>42</line>
+          <properties documentPath="$PROJECT_DIR$/Vend_Testing/Pages/WebregisterPage.cs" initialLine="42">
+            <startOffsets>
+              <option value="1418" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1472" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/BasePage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Global/CommonMethods.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="141" column="25" selection-start-line="141" selection-start-column="25" selection-end-line="141" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Global/Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="48" column="68" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Config/Vend_Resource.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="23" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/SigninPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <marker date="1538264813724" expanded="false" signature="6:245" ph="..." />
+            <marker date="1538264813724" expanded="true" signature="275:1882" ph="{...}" />
+            <marker date="1538264813724" expanded="true" signature="309:1880" ph="{...}" />
+            <marker date="1538264813724" expanded="false" signature="324:755" ph="Elements" />
+            <marker date="1538264813724" expanded="true" signature="765:1874" ph="Methods" />
+            <marker date="1538264813724" expanded="true" signature="817:1005" ph="{...}" />
+            <marker date="1538264813724" expanded="true" signature="1042:1236" ph="{...}" />
+            <marker date="1538264813724" expanded="true" signature="1272:1409" ph="{...}" />
+            <marker date="1538264813724" expanded="true" signature="1449:1855" ph="{...}" />
+            <marker date="1538264813724" expanded="true" signature="1555:1625" ph="/* used to make sure that the page go to the webregister ... */" />
+            <marker date="1538264813724" expanded="true" signature="1688:1803" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/PromotionsPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <marker date="1538265791344" expanded="false" signature="6:65" ph="..." />
+            <marker date="1538265791344" expanded="true" signature="95:339" ph="{...}" />
+            <marker date="1538265791344" expanded="true" signature="129:337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Global/Driver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="81" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="81" />
+          <folding>
+            <marker date="1538264210751" expanded="false" signature="6:70" ph="..." />
+            <marker date="1538264210751" expanded="true" signature="101:1145" ph="{...}" />
+            <marker date="1538264210751" expanded="true" signature="120:1143" ph="{...}" />
+            <marker date="1538264210751" expanded="true" signature="224:1137" ph="WaitforElement" />
+            <marker date="1538264210751" expanded="true" signature="290:392" ph="{...}" />
+            <marker date="1538264210751" expanded="true" signature="476:743" ph="{...}" />
+            <marker date="1538264210751" expanded="true" signature="831:1117" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/ProductPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1538268473917" expanded="true" signature="6:79" ph="..." />
+            <marker date="1538268473917" expanded="true" signature="109:456" ph="{...}" />
+            <marker date="1538268473917" expanded="true" signature="140:454" ph="{...}" />
+            <marker date="1538268473917" expanded="true" signature="175:248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Pages/WebregisterPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <marker date="1538269474041" expanded="false" signature="6:304" ph="..." />
+            <marker date="1538269474041" expanded="true" signature="334:1673" ph="{...}" />
+            <marker date="1538269474041" expanded="true" signature="371:1671" ph="{...}" />
+            <marker date="1538269474041" expanded="true" signature="765:1097" ph="{...}" />
+            <marker date="1538269474041" expanded="true" signature="1181:1655" ph="{...}" />
+            <marker date="1538269474041" expanded="true" signature="1544:1607" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vend_Testing/Test/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+          <folding>
+            <marker date="1538268607110" expanded="false" signature="6:75" ph="..." />
+            <marker date="1538268607110" expanded="true" signature="104:6231" ph="{...}" />
+            <marker date="1538268607110" expanded="true" signature="126:6229" ph="{...}" />
+            <marker date="1538268607110" expanded="true" signature="213:6223" ph="{...}" />
+            <marker date="1538268607110" expanded="true" signature="302:524" ph="{...}" />
+            <marker date="1538268607110" expanded="true" signature="627:908" ph="{...}" />
+            <marker date="1538268607110" expanded="true" signature="909:6213" ph="/* [Test, Description(&quot;Nunit-Search for a property!&quot;)] ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

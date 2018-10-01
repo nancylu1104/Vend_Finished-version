@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\hzha321\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hzha321\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Vend_Testing.540023744.00" t="ExcludeRecursive" />
+    <e p="C:\Users\hzha321\RiderProjects\Vend_Testing" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Vend_Testing" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Config" t="Include">
+          <e p="ReportXML.xml" t="Include" />
+          <e p="Vend_Resource.Designer.cs" t="Include" />
+          <e p="Vend_Resource.resx" t="Include" />
+        </e>
+        <e p="ExcelData" t="Include">
+          <e p="TestData.xlsx" t="Include" />
+        </e>
+        <e p="extent-config.xml" t="Include" />
+        <e p="Global" t="Include">
+          <e p="Base.cs" t="Include" />
+          <e p="CommonMethods.cs" t="Include" />
+          <e p="Driver.cs" t="Include" />
+        </e>
+        <e p="license" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Pages" t="Include">
+          <e p="BasePage.cs" t="Include" />
+          <e p="ProductPage.cs" t="Include" />
+          <e p="PromotionsPage.cs" t="Include" />
+          <e p="SigninPage.cs" t="Include" />
+          <e p="WebregisterPage.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Test" t="Include">
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="TestReports" t="Include">
+          <e p="ExtentReports 2.0_files" t="Include">
+            <e p="1.png" t="Include" />
+            <e p="2.png" t="Include" />
+            <e p="css" t="Include" />
+            <e p="extent.css" t="Include" />
+            <e p="extent.js" t="Include" />
+          </e>
+          <e p="KeysReports.html" t="Include" />
+          <e p="ScreenshotsReport_13-07-2018_1216.jpeg" t="Include" />
+        </e>
+        <e p="Vend_Testing.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Vend_Testing.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
